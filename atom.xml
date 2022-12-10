@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>冰墩墩の小窝</title>
   
+  <subtitle>和有趣的人做有趣的事</subtitle>
+  <link href="https://zhaohj08.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://zhaohj08.github.io/"/>
   <updated>2022-12-09T08:19:25.468Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zhaohj08.github.io/</id>
   
   <author>
     <name>Zhaohj</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>小游戏と奇妙网站收藏</title>
-    <link href="http://example.com/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://zhaohj08.github.io/2022/12/09/15-30-38/"/>
+    <id>https://zhaohj08.github.io/2022/12/09/15-30-38/</id>
     <published>2022-12-09T07:30:38.000Z</published>
     <updated>2022-12-09T08:19:25.468Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="摸鱼" scheme="http://example.com/tags/%E6%91%B8%E9%B1%BC/"/>
+    <category term="摸鱼" scheme="https://zhaohj08.github.io/tags/%E6%91%B8%E9%B1%BC/"/>
     
   </entry>
   
   <entry>
     <title>沁园春·雪</title>
-    <link href="http://example.com/2022/12/08/First/"/>
-    <id>http://example.com/2022/12/08/First/</id>
+    <link href="https://zhaohj08.github.io/2022/12/08/15-48-05/"/>
+    <id>https://zhaohj08.github.io/2022/12/08/15-48-05/</id>
     <published>2022-12-08T07:48:05.000Z</published>
     <updated>2022-12-08T07:51:42.638Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/12/03/hello-world/"/>
-    <id>http://example.com/2022/12/03/hello-world/</id>
+    <link href="https://zhaohj08.github.io/2022/12/03/16-48-29/"/>
+    <id>https://zhaohj08.github.io/2022/12/03/16-48-29/</id>
     <published>2022-12-03T08:48:29.507Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
