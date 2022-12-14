@@ -1,4 +1,4 @@
-(function() {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>(function() {
     var  mousePress = false; 
 	var imageResources = getImageRes();
     my.ImageManager.load(imageResources, loadImageResources);

@@ -1,4 +1,4 @@
-/**
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/**
  * 音乐控制
  */
 (function() {
